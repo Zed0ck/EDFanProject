@@ -1,0 +1,18 @@
+html { font-family: 'monospace'; }
+
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Consolas', monospace;
+  font-size: 4rem;
+  color: black;
+}
+
+p {
+  font-family: 'Lucida Console', monospace;
+  font-size: 1rem;
+  color: black;
+}
